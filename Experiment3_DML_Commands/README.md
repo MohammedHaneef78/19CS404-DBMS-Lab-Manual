@@ -47,7 +47,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 ```
 **Question 1**
 --
--- Paste Question 1 here
+
 
 
 <img width="1231" height="626" alt="image" src="https://github.com/user-attachments/assets/be208fb0-7737-48a9-a842-687705406365" />
@@ -68,7 +68,7 @@ WHERE job_ID LIKE "%MAN";
 
 **Question 2**
 ---
--- Paste Question 2 here
+
 
 
 
@@ -95,7 +95,7 @@ WHERE supplier_id=4
 
 **Question 3**
 ---
--- Paste Question 3 here
+
 
 <img width="1328" height="522" alt="image" src="https://github.com/user-attachments/assets/014e9064-ac2b-426b-88e0-530465fa2e65" />
 
@@ -114,7 +114,7 @@ WHERE product_id=10;
 
 **Question 4**
 ---
--- Paste Question 4 here
+
 
 
 <img width="1233" height="561" alt="image" src="https://github.com/user-attachments/assets/f3995393-8cd2-4a5d-bfd0-977874319caf" />
